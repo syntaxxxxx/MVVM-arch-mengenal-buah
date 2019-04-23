@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".view.detail.DetailActivity">
+
+    <TextView
+        android:id="@+id/tv_klik"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="klik"
+        android:textSize="24sp"
+        app:layout_constraintBottom_toBottomOf="@+id/iv_klik"
+        app:layout_constraintEnd_toEndOf="@+id/iv_klik"
+        app:layout_constraintStart_toStartOf="@+id/iv_klik"
+        app:layout_constraintTop_toTopOf="@+id/iv_klik"
+        tools:text="klik" />
+
+    <ImageView
+        android:id="@+id/iv_klik"
+        android:layout_width="160dp"
+        android:layout_height="160dp"
+        android:contentDescription="@string/buahParam"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tv_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/dp_16"
+        android:text="@string/name"
+        android:textSize="18sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/iv_klik" />
+
+    <EditText
+        android:id="@+id/edt_name_buah"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/dp_16"
+        android:hint="name buah"
+        android:gravity="center"
+        android:inputType="text"
+        android:digits="1234567890qwertyuiopasdfghjklzxcvbnm "
+        app:layout_constraintBaseline_toBaselineOf="@+id/tv_name"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/tv_name" />
+
+    <TextView
+        android:id="@+id/j"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/dp_16"
+        android:text="jumlah"
+        android:textSize="18sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv_name" />
+
+    <Spinner
+        android:id="@+id/jumlah"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/dp_16"
+        app:layout_constraintBaseline_toBaselineOf="@+id/j"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/j" />
+
+    <Button
+        android:id="@+id/btn_save"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/dp_16"
+        android:text="@string/save"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/jumlah" />
+
+</android.support.constraint.ConstraintLayout>
