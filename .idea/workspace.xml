@@ -10,7 +10,29 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d810473f-619f-4296-a9aa-50d18d63b6c1" name="Default Changelist" comment="" />
+    <list default="true" id="d810473f-619f-4296-a9aa-50d18d63b6c1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/app/BuahApplication.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/app/BuahApplication.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/app/Extension.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/app/Extension.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/model/AttributeTotal.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/model/AttributeTotal.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/model/AttributeType.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/model/AttributeType.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/model/AttributeValue.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/model/AttributeValue.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/model/Buah.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/model/Buah.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/model/BuahAttribute.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/model/BuahAttribute.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/model/BuahGenerate.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/model/BuahGenerate.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/model/BuahParam.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/model/BuahParam.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/model/BuahRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/model/BuahRepository.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/model/room/BuahConverter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/model/room/BuahConverter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/model/room/BuahDao.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/model/room/BuahDao.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/model/room/BuahDatabase.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/model/room/BuahDatabase.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/model/room/RoomRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/model/room/RoomRepository.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/view/detail/DetailActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/view/detail/DetailActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/view/detail/DetailViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/view/detail/DetailViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/view/dialog_fragment/BuahAdapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/view/dialog_fragment/BuahAdapter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/view/dialog_fragment/BuahDialogFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/view/dialog_fragment/BuahDialogFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/view/utama/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/view/utama/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/view/utama/MainAdapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/view/utama/MainAdapter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/view/utama/MainViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/view/utama/MainViewModel.kt" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,19 +54,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/build.gradle">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/model/Buah.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="427">
-              <caret line="43" column="56" selection-start-line="43" selection-start-column="56" selection-end-line="43" selection-end-column="56" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="16" lean-forward="true" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+            <state relative-caret-position="119">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="e#40#173#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -52,8 +68,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/model/AttributeType.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+            <state relative-caret-position="51">
+              <caret line="3" column="4" selection-start-line="3" selection-end-line="3" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -61,8 +77,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/model/AttributeTotal.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+            <state relative-caret-position="34">
+              <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -70,26 +86,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/model/room/RoomRepository.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+            <state relative-caret-position="85">
+              <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/app/BuahApplication.kt">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/model/room/BuahDatabase.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+            <state relative-caret-position="102">
+              <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/app/Extension.kt">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/model/room/BuahDao.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+            <state relative-caret-position="85">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -97,17 +113,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/model/room/BuahConverter.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+            <state relative-caret-position="51">
+              <caret line="3" column="7" lean-forward="true" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+              <folding>
+                <element signature="e#45#165#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/view/utama/MainAdapter.kt">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/app/Extension.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="40" column="3" selection-start-line="40" selection-start-column="3" selection-end-line="40" selection-end-column="3" />
+            <state relative-caret-position="102">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/app/BuahApplication.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -115,25 +143,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/model/AttributeValue.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+            <state relative-caret-position="51">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/creaturemon/view/avatars/AvatarAdapter.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/creaturemon/view/avatars/AvatarStore.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/creaturemon/view/allcreatures/CreatureAdapter.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/creaturemon/viewmodel/DetailViewModel.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/creaturemon/view/detail/DetailViewModel.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/creaturemon/view/avatars/BuahAdapter.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/creaturemon/view/dialog_fragment/BuahAdapter.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/creaturemon/view/dialog_fragment/BuahDialogFragment.kt" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/creaturemon/view/dialog_fragment/BuahResource.kt" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/creaturemon/model/CreatureRepository.kt" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/creaturemon/model/Buah.kt" />
@@ -153,30 +176,38 @@
         <option value="$PROJECT_DIR$/app/src/test/java/com/raywenderlich/android/creaturemon/viewmodel/CreatureViewModelTest.kt" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/creaturemon/model/AttributeTotal.kt" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/syntax/android/creaturemon/model/AttributeValue.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/model/AttributeValue.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/app/BuahApplication.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/model/BuahParam.kt" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/content.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/item_dialog_bottom.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/menu/menu_main.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/item_buah.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/model/room/BuahDao.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/view/dialog_fragment/BuahAdapter.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/view/dialog_fragment/BuahDialogFragment.kt" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/model/BuahResource.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/model/AttributeTotal.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/view/detail/DetailActivity.kt" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/model/Buah.kt" />
         <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_detail.xml" />
         <option value="$PROJECT_DIR$/app/src/test/java/com/syntax/android/buah/viewmodel/CreatureViewModelTest.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/view/detail/DetailViewModel.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/view/utama/MainActivity.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/model/BuahRepository.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/view/utama/MainAdapter.kt" />
         <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/view/utama/MainViewModel.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/view/utama/MainAdapter.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/view/utama/MainActivity.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/view/dialog_fragment/BuahDialogFragment.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/view/dialog_fragment/BuahAdapter.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/view/detail/DetailViewModel.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/view/detail/DetailActivity.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/model/BuahRepository.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/model/BuahParam.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/model/BuahGenerate.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/model/BuahAttribute.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/model/Buah.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/model/AttributeValue.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/model/AttributeType.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/model/AttributeTotal.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/model/room/RoomRepository.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/model/room/BuahDatabase.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/model/room/BuahDao.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/model/room/BuahConverter.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/app/Extension.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/app/BuahApplication.kt" />
       </list>
     </option>
   </component>
@@ -185,6 +216,7 @@
     <option name="width" value="1440" />
     <option name="height" value="835" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <hideEmptyPackages AndroidView="true" />
@@ -209,59 +241,6 @@
               <item name="app" type="feadf853:AndroidModuleNode" />
               <item name="java" type="edd41e36:AndroidSourceTypeNode" />
               <item name="buah" type="cbb59c9e:AndroidPsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MVVM" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="buah" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MVVM" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="buah" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MVVM" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="buah" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-              <item name="room" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MVVM" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="buah" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="view" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MVVM" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="buah" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="view" type="462c0819:PsiDirectoryNode" />
-              <item name="detail" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MVVM" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="buah" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="view" type="462c0819:PsiDirectoryNode" />
-              <item name="dialog_fragment" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MVVM" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="buah" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="view" type="462c0819:PsiDirectoryNode" />
-              <item name="utama" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MVVM" type="1abcf292:AndroidViewProjectNode" />
@@ -386,7 +365,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="835" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.18454936" />
@@ -397,10 +375,10 @@
       <window_info id="Designer" order="6" />
       <window_info id="Capture Tool" order="7" />
       <window_info id="Resources Explorer" order="8" />
-      <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Logcat" order="1" weight="0.5039267" />
       <window_info anchor="bottom" id="TODO" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.32984293" />
       <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" weight="0.32984293" />
       <window_info anchor="bottom" id="Build" order="5" weight="0.32853404" />
       <window_info anchor="bottom" id="Android Profiler" order="6" />
@@ -436,13 +414,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/view/dialog_fragment/BuahDialogFragment.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="40" column="31" selection-start-line="40" selection-start-column="31" selection-end-line="40" selection-end-column="31" />
         </state>
       </provider>
     </entry>
@@ -518,161 +489,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/view/dialog_fragment/BuahAdapter.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="26" column="43" selection-start-line="26" selection-start-column="43" selection-end-line="26" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/view/utama/MainActivity.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="37" column="42" selection-start-line="37" selection-start-column="42" selection-end-line="37" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/model/room/BuahDao.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/model/room/BuahDatabase.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/view/detail/DetailActivity.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="43" column="16" selection-start-line="43" selection-start-column="16" selection-end-line="43" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/view/detail/DetailViewModel.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
       <provider editor-type-id="android-manifest" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="55" selection-start-line="10" selection-start-column="55" selection-end-line="10" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/view/utama/MainViewModel.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="13" column="54" selection-start-line="13" selection-start-column="54" selection-end-line="13" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/model/BuahResource.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/model/BuahRepository.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/model/BuahParam.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/model/BuahGenerate.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/model/BuahAttribute.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/model/Buah.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
-          <folding>
-            <element signature="e#40#173#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/model/AttributeValue.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/model/AttributeType.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/model/AttributeTotal.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/model/room/RoomRepository.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/app/BuahApplication.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/app/Extension.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/model/room/BuahConverter.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/view/utama/MainAdapter.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="40" column="3" selection-start-line="40" selection-start-column="3" selection-end-line="40" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -686,7 +507,167 @@
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
-          <caret line="23" column="16" lean-forward="true" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+          <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/view/utama/MainViewModel.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/view/utama/MainAdapter.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/view/utama/MainActivity.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/view/dialog_fragment/BuahDialogFragment.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/view/dialog_fragment/BuahAdapter.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/view/detail/DetailViewModel.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/view/detail/DetailActivity.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/model/BuahResource.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/model/BuahRepository.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/model/BuahParam.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/model/BuahGenerate.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/model/BuahAttribute.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="20" lean-forward="true" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/model/Buah.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#40#173#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/model/AttributeValue.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/model/AttributeType.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="4" selection-start-line="3" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/model/AttributeTotal.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/model/room/RoomRepository.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/model/room/BuahDatabase.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/model/room/BuahDao.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/model/room/BuahConverter.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="7" lean-forward="true" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+          <folding>
+            <element signature="e#45#165#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/app/Extension.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/syntax/android/buah/app/BuahApplication.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
         </state>
       </provider>
     </entry>
